@@ -1,0 +1,28 @@
+/*
+This is also a comment
+Selector:
+Element selector: name of element (h1, li)
+Class selector: .name of class
+ID selector: #ID
+*/
+h1, li {
+    color:green;
+    background-color: #FF5733;
+}
+
+.width100 {
+    width: 100%;
+}
+
+.width50 {
+    width: 50%;
+}
+
+.width25 {
+    width: 25%;
+}
+
+#best {
+    border: 5px dotted;
+    border-color: black;
+}
